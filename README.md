@@ -1,24 +1,65 @@
-# food-diary
+# Food Diary
 
-## Project setup
+![status: in progress](https://img.shields.io/badge/status-in--progress-green)
+
+## About this Project
+
+A minimalist food diary with other potential variables
+
+I created this to help find IBS triggers.
+
+### Built with
+
+- Vue & Vue CLI
+- BootstrapVue
+
+## Getting Started
+
+### Prerequisites
+
+- Node
+
+### Installation
+
+1. Install the dependencies.
+
 ```
-npm install
+npm i
 ```
 
-### Compiles and hot-reloads for development
+2. Run the build tool.
+
 ```
-npm run serve
+npm run build-w
 ```
 
-### Compiles and minifies for production
+3. Run the server.
+
 ```
-npm run build
+npm run dev
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+Go to http://localhost
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Deployment
+
+This tool currently only works locally.
+
+1. Create a shortcut for `start.bat` on your desktop.
+
+2. Double click the shortcut to run the server.
+
+Go to http://localhost
+
+## Usage
+
+See deployment
+
+## Roadmap
+
+No planned features
+
+## Release History
+
+- v0.1.0
+  - Initial design
